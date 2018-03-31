@@ -23,4 +23,7 @@ public class Account {
     public Account(int id) {
         this.id = id;
     }
+
+    public Account() {
+    }
 }
