@@ -24,6 +24,4 @@ public class Account {
         this.id = id;
     }
 
-    public Account() {
-    }
 }
